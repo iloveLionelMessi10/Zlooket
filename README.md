@@ -1,3 +1,3 @@
 # Zlooket
-the new blacket
-Ben, Samarth, Leo, David.
+The Better Blacket
+Ben, Samarth, Leo.
