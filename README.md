@@ -1,2 +1,2 @@
 # Zlooket
-the new blacket
+The Better Blacket
